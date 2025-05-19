@@ -1,0 +1,6 @@
+{
+    "name": "tasks",
+    "private": true,
+    "workspaces": ["apps/*", "libs/*"]
+  }
+  
